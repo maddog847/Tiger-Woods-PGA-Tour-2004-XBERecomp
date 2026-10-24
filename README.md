@@ -33,7 +33,6 @@ Use a compatible game controller for gameplay. Close the game before editing `tw
 - **F11 / Alt+Enter:** toggle windowed and borderless display.
 - **Alt+F4:** exit.
 - **F12:** save a PNG in `screenshots` beside the EXE.
-- **F3:** diagnostic capture; captures may be large and cause a pause.
 
 Output resolution, render percentage, frame cap, VSync, and anisotropic filtering are configurable. Defaults are 1280×720 output, 100% render scale, and a 60 FPS cap. The original game's advertised 480p mode does not limit the PC renderer's resolution. The runtime reports a component/HDTV AV pack without advertising guest 720p.
 
