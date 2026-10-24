@@ -11,7 +11,8 @@ Menus, tutorial progression, normal play, profile saving, video playback, and au
 Known issues:
 - Tutorial demonstrations and cutscenes may have uneven timing. Tutorial may lag on random shots at rendering higher than 100%.
 - Higher render scales can cause slowdowns. Start with the supplied 100% setting.
-
+- Recommend doing initial tutorial at 100% rendering. Beyond that, play was tested up to 300%. Some lag was introduced. 200% was fine and only an occasional lag at times.
+  
 Further development and ongoing support are not guaranteed. Community improvements are welcome under the applicable included licenses.
 
 ## Installation
